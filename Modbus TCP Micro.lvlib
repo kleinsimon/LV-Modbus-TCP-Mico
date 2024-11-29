@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<Library LVVersion="23008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)Z!!!*Q(C=\&gt;5^5A*"%)&lt;B$]P!F-$=WM4=0I%F%4E8-/ALE#IG8+&amp;41[\!&amp;@I+8)%LL/`/NEJ:+IF;FO5M!]MX@Y_TSSKV=C;&gt;KD^7TD]NV&gt;[0N88PHU]/W`PRL+`8_(EYPD^`&lt;8^H`-%;.@[D^H(^._W@_)]5`:@`]L@,X&gt;%@Q&lt;@`$C9;(E45J!&lt;6K;:BW4\*ETT*ETT*ETT)ATT)ATT)A^T*H&gt;T*H&gt;T*H&gt;T)D&gt;T)D&gt;T)D&lt;Q&gt;Z#)8O=AB*9MH#S74*B-EH;%I?5M]C3@R*"[_+P%EHM34?")08:2Y%E`C34S*BW&amp;+0)EH]33?R-.54:,N)-?4?*B?A3@Q"*\!%XB95I%H!!3,"2-(E]"1U"C="*\!%XAY6?!*0)%H]!1?GB6Y!E`A#4S"BS&amp;N6[*JBI-=$^0)]4A?R_.Y(!^4S`%Y(M@D?"Q0S]HR/"Y(Y3TI4!Z"TC#HA`0&amp;]4A?0O2Y()`D=4S/B[:WB&lt;TNT+!:$H)]BM@Q'"\$9XC91I&lt;(]"A?QW.YG&amp;;'R`!9(M.D?&amp;B+BM@Q'"Y$9CT+]D)G-Q9;H9T!]0"K&gt;YOVKR2.9OW1[O:6X:3KGUVV%[FO$N6&amp;6VV-V563&lt;&lt;ZK5V7&lt;J&gt;I%V2_H1KMQKE65AY?/WP/_IW[J'_K;OK1OK$.K2ZU/1\_YYX[`VW[XUX;\V7;TU8K^VH+ZV'+RU'QW5^&gt;VGE[H,Y_"#Y[8"],Y8,LD@(6J^Q_X]_P6Y]X^KJN06NX6:-B`Y0`T,XAW[E3(;\"(4R2^0YE!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">587235328</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI_IconEditor" Type="Str">50 51 51 52 56 48 48 52 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 4 46 1 100 1 100 80 84 72 48 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 15 13 76 97 121 101 114 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 7 0 0 3 189 0 0 0 0 0 0 0 0 0 0 3 162 0 40 0 0 3 156 0 0 3 96 0 0 0 0 0 9 0 32 0 24 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 7 86 73 32 73 99 111 110 100 1 0 0 0 0 0 5 77 32 84 67 80 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 83 109 97 108 108 32 70 111 110 116 115 0 1 8 1 1
+
+</Property>
+	<Item Name="Private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Mask Write Register.vi" Type="VI" URL="../Raw/Mask Write Register.vi"/>
+		<Item Name="MBAP Header.ctl" Type="VI" URL="../Raw/MBAP Header.ctl"/>
+		<Item Name="Modbus Exception.ctl" Type="VI" URL="../Raw/Modbus Exception.ctl"/>
+		<Item Name="Modbus Functions.ctl" Type="VI" URL="../Raw/Modbus Functions.ctl"/>
+		<Item Name="Modbus Request.ctl" Type="VI" URL="../Raw/Modbus Request.ctl"/>
+		<Item Name="Modbus Request.vi" Type="VI" URL="../Raw/Modbus Request.vi"/>
+		<Item Name="Read Bool.vi" Type="VI" URL="../Raw/Read Bool.vi"/>
+		<Item Name="Read Coils.vi" Type="VI" URL="../Raw/Read Coils.vi"/>
+		<Item Name="Read Device Information.vi" Type="VI" URL="../Raw/Read Device Information.vi"/>
+		<Item Name="Read Discrete Inputs.vi" Type="VI" URL="../Raw/Read Discrete Inputs.vi"/>
+		<Item Name="Read Holding Registers.vi" Type="VI" URL="../Raw/Read Holding Registers.vi"/>
+		<Item Name="Read Input Registers.vi" Type="VI" URL="../Raw/Read Input Registers.vi"/>
+		<Item Name="Read U16.vi" Type="VI" URL="../Raw/Read U16.vi"/>
+		<Item Name="Read Write Registers.vi" Type="VI" URL="../Raw/Read Write Registers.vi"/>
+		<Item Name="Response PDU.ctl" Type="VI" URL="../Raw/Response PDU.ctl"/>
+		<Item Name="Write Coils.vi" Type="VI" URL="../Raw/Write Coils.vi"/>
+		<Item Name="Write Registers.vi" Type="VI" URL="../Raw/Write Registers.vi"/>
+		<Item Name="Write Single Coil.vi" Type="VI" URL="../Raw/Write Single Coil.vi"/>
+		<Item Name="Write Single Register.vi" Type="VI" URL="../Raw/Write Single Register.vi"/>
+	</Item>
+	<Item Name="Modbus TCP Micro Master.lvclass" Type="LVClass" URL="../Modbus TCP Micro Master/Modbus TCP Micro Master.lvclass"/>
+	<Item Name="Test.vi" Type="VI" URL="../Raw/Test.vi"/>
+</Library>
